@@ -12,6 +12,8 @@ In this project, our system consists of the following hardware parts:
  - SCT-013-000 100A/50mA (Current Sensor)
  - Energy calculation Circuit and hardware (Confidential)
  
+   <img src="/images/image6.jpeg" alt="Description" width="500" height="300">
+ 
  ## PCB
  
  <img src="/images/image2.png" alt="Description" width="500" height="300">
@@ -20,9 +22,8 @@ In this project, our system consists of the following hardware parts:
  
  ## Application 
  
-   <img src="/images/image5.png" alt="Description" width="200" height="400">   
-   <img src="/images/image4.png" alt="Description" width="200" height="400">   
-   <img src="/images/image6.png" alt="Description" width="200" height="400">
+   <img src="/images/image4.jpeg" alt="Description" width="200" height="400">   
+   <img src="/images/image5.jpeg" alt="Description" width="200" height="400">   
  
  
  
